@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question:": "Quel est le langage de programmation principalement utilisé pour le développement web côté serveur ?",
+      "choices:": [
+        "JavaScript",
+        "PHP",
+        "Python",
+        "HTML"
+      ],
+      "answer:": "PHP"
+    },
+    {
+      "question:": "Quelle est la capitale de la France ?",
+      "choices:": [
+        "Paris",
+        "Londres",
+        "Madrid",
+        "Rome"
+      ],
+      "answer:": "Paris"
+    },
+    {
+      "question:": "Quel est le plus grand océan du monde ?",
+      "choices:": [
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Arctique",
+        "Océan Pacifique"
+      ],
+      "answer:": "Océan Pacifique"
+    },
+    {
+      "question:": "Qui a écrit le roman '1984' ?",
+      "choices:": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "J.K. Rowling"
+      ],
+      "answer:": "George Orwell"
+    },
+    {
+      "question:": "Quelle planète est la plus proche du Soleil ?",
+      "choices:": [
+        "Vénus",
+        "Mars",
+        "Mercure",
+        "Terre"
+      ],
+      "answer:": "Mercure"
+    }
+  ]
+}
